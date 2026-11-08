@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/648472267842684579/b57a00cd27a44f84a89d9d19a49b065f/artifacts
+end_time: 1793794212915
+entry_point_name: ''
+experiment_id: '648472267842684579'
+lifecycle_stage: active
+run_id: b57a00cd27a44f84a89d9d19a49b065f
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793793932130
+status: 3
+tags: []
+user_id: voltsy

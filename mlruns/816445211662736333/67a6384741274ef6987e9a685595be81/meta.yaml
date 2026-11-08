@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/816445211662736333/67a6384741274ef6987e9a685595be81/artifacts
+end_time: 1793205716710
+entry_point_name: ''
+experiment_id: '816445211662736333'
+lifecycle_stage: active
+run_id: 67a6384741274ef6987e9a685595be81
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793202482573
+status: 3
+tags: []
+user_id: voltsy

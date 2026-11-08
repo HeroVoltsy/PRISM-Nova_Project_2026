@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/648472267842684579/d363f9d9b9494c61a368867d5134bfda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '648472267842684579'
+lifecycle_stage: active
+run_id: d363f9d9b9494c61a368867d5134bfda
+run_name: LassoClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793765378212
+status: 1
+tags: []
+user_id: voltsy

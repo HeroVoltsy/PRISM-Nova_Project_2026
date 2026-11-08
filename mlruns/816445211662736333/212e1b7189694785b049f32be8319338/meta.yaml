@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/816445211662736333/212e1b7189694785b049f32be8319338/artifacts
+end_time: 1793202482510
+entry_point_name: ''
+experiment_id: '816445211662736333'
+lifecycle_stage: active
+run_id: 212e1b7189694785b049f32be8319338
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793199260829
+status: 3
+tags: []
+user_id: voltsy

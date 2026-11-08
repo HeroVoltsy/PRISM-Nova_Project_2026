@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/648472267842684579/938e71bc6b314c4f836618cb36266fc0/artifacts
+end_time: 1793369042813
+entry_point_name: ''
+experiment_id: '648472267842684579'
+lifecycle_stage: active
+run_id: 938e71bc6b314c4f836618cb36266fc0
+run_name: SupportVectorClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793368664489
+status: 3
+tags: []
+user_id: voltsy

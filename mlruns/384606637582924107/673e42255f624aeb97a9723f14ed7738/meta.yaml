@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/384606637582924107/673e42255f624aeb97a9723f14ed7738/artifacts
+end_time: 1793217778738
+entry_point_name: ''
+experiment_id: '384606637582924107'
+lifecycle_stage: active
+run_id: 673e42255f624aeb97a9723f14ed7738
+run_name: ExtraTreesClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793214933209
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,42 @@
+{
+  "evaluation": "Leave-one-site-out",
+  "representation": "Original 19,900 Fisher-z connectivity features",
+  "participants": 989,
+  "features": 19900,
+  "sites": 20,
+  "models": [
+    "LogisticRegression",
+    "LassoClassifier",
+    "RidgeClassifier",
+    "SupportVectorClassifier"
+  ],
+  "repeats": 5,
+  "random_state": 42,
+  "gaussian_noise": [
+    0.01,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "feature_dropout": [
+    0.05,
+    0.1,
+    0.2,
+    0.4
+  ],
+  "random_feature_corruption": [
+    0.05,
+    0.1,
+    0.2,
+    0.4
+  ],
+  "distribution_shift_sd": [
+    0.25,
+    0.5,
+    1.0,
+    2.0
+  ],
+  "distribution_shift_feature_fraction": 0.2,
+  "training_policy": "Fit once per model and held-out site on unperturbed training data; never fit on perturbed test data.",
+  "pca": "Not included: no PCA configuration is defined in the supplied training notebook."
+}

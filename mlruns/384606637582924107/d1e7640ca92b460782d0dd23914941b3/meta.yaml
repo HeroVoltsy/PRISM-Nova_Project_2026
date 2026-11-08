@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/384606637582924107/d1e7640ca92b460782d0dd23914941b3/artifacts
+end_time: 1793300129230
+entry_point_name: ''
+experiment_id: '384606637582924107'
+lifecycle_stage: active
+run_id: d1e7640ca92b460782d0dd23914941b3
+run_name: RidgeClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793299922831
+status: 3
+tags: []
+user_id: voltsy

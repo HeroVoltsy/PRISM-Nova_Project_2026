@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/816445211662736333/1cc847016c054054ac2dbd8615ca4514/artifacts
+end_time: 1793199260786
+entry_point_name: ''
+experiment_id: '816445211662736333'
+lifecycle_stage: active
+run_id: 1cc847016c054054ac2dbd8615ca4514
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793195885978
+status: 3
+tags: []
+user_id: voltsy

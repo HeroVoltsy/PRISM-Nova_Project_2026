@@ -1,0 +1,10 @@
+,Value
+cv_rows,135
+cv_models,9
+cv_folds,15
+cv_prediction_rows,26703
+loso_site_metric_rows,80
+loso_fold_metric_rows,80
+loso_models,4
+loso_heldout_sites,20
+loso_prediction_rows,3956

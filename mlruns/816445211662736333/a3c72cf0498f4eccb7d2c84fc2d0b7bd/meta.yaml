@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/NOVAProject/mlruns/816445211662736333/a3c72cf0498f4eccb7d2c84fc2d0b7bd/artifacts
+end_time: 1793195885918
+entry_point_name: ''
+experiment_id: '816445211662736333'
+lifecycle_stage: active
+run_id: a3c72cf0498f4eccb7d2c84fc2d0b7bd
+run_name: HistGradientBoostingClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793192483876
+status: 3
+tags: []
+user_id: voltsy
